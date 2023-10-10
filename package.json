@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "less": "^4.2.0",
+    "mathjs": "^11.11.1",
+    "numeric": "^1.2.6",
     "vue": "^3.3.4"
   },
   "devDependencies": {
